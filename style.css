@@ -81,6 +81,8 @@ a:hover {
 
 #hamburger-nav {
   display: none;
+  background-color:lightgray;
+  padding: 1px;  
 }
 
 .hamburger-menu {
